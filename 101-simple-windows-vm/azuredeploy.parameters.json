@@ -9,7 +9,7 @@
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "Pa$$w0rd1234"
+      "value": "Passw0rd1234"
     },
     "dnsNameForPublicIP": {
       "value": "df2202"
@@ -18,7 +18,7 @@
       "value": "West US"
     },
     "sizeOfDiskInGB": {
-     "value": "20" 
+      "value": "20"
     }
   }
 }
