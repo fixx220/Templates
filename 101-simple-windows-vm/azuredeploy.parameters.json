@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "dfstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Pa$$w0rd1234"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "df2202"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+     "value": "20" 
     }
   }
 }
